@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pip:manifest xmlns:pip="http://schema.wolterskluwer.com/pci/interface-protocol-v4.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" protocol-version="4.0" xsi:schemaLocation="http://schema.wolterskluwer.com/pci/interface-protocol-v4.0/ PCI-protocol4.xsd">
+    <pip:metadata>
+        <pip:id>76cfeb64-8a69-4089-a0e0-a11fb0463544</pip:id>
+        <pip:creator>WKNL-CDC</pip:creator>
+        <pip:timestamp>2019-01-18T16:06:25.535Z</pip:timestamp>
+        <pip:type>full</pip:type>
+        <pip:priority>medium</pip:priority>
+        <pip:properties>
+            <pip:property name="ontology" value="PCI-NG"/>
+            <pip:property name="customJobId" value="76cfeb64-8a69-4089-a0e0-a11fb0463544"/>
+            <pip:property name="OpCo" value="WKNL"/>
+            <pip:property name="publicationId" value="WKNL_LTR_1547827585535"/>
+            <pip:property name="providerSystemVersion" value="1.0.0"/>
+            <pip:property name="BusinessContext" value="WKNL-LTR"/>
+            <pip:property name="ProductId" value="Walter"/>
+        </pip:properties>
+    </pip:metadata>
+    <pip:object-groups>	
+	    <pip:object-group id="id14d14d91-079f-4c20-8b29-aabdb821e113" target-object-uri="http://doc.wolterskluwer.nl/walter/0ace5611-ead7-44e6-8553-1e4f9753f218" type="DEF">
+            <pip:store id="id3b0b9706-cd68-4561-9342-87f6a7fb875b" object-uri="http://doc.wolterskluwer.nl/walter/0ace5611-ead7-44e6-8553-1e4f9753f218.rdf" aspect="metadata" path="Documents/0ace5611-ead7-44e6-8553-1e4f9753f218/meta.rdf" mime-type="application/rdf+xml">
+                <pip:properties>
+                    <pip:property name="format" value="rdfxml"/>
+                </pip:properties>
+            </pip:store>
+            <pip:store id="ide12564eb-34bc-4956-b04a-3d107098f433" object-uri="http://doc.wolterskluwer.nl/walter/0ace5611-ead7-44e6-8553-1e4f9753f218.html" aspect="content" path="Documents/0ace5611-ead7-44e6-8553-1e4f9753f218/0ace5611-ead7-44e6-8553-1e4f9753f218.html" mime-type="text/html"/>
+        </pip:object-group>
+		<pip:object-group id="id70729ce6-ad0e-4298-bf1b-22ae7546bd8e" target-object-uri="http://doc.wolterskluwer.nl/walter/0bb4bf89-cfbc-4ecc-9b20-1dc632bd254a" type="DEF">
+            <pip:store id="idb85a2873-6aef-4f6d-8d0e-d1ff33bd6c84" object-uri="http://doc.wolterskluwer.nl/walter/0bb4bf89-cfbc-4ecc-9b20-1dc632bd254a.rdf" aspect="metadata" path="Documents/0bb4bf89-cfbc-4ecc-9b20-1dc632bd254a/meta.rdf" mime-type="application/rdf+xml">
+                <pip:properties>
+                    <pip:property name="format" value="rdfxml"/>
+                </pip:properties>
+            </pip:store>
+            <pip:store id="id9a8f96bc-b4b1-4138-bfd0-6a29265738ae" object-uri="http://doc.wolterskluwer.nl/walter/0bb4bf89-cfbc-4ecc-9b20-1dc632bd254a.html" aspect="content" path="Documents/0bb4bf89-cfbc-4ecc-9b20-1dc632bd254a/0bb4bf89-cfbc-4ecc-9b20-1dc632bd254a.html" mime-type="text/html"/>
+        </pip:object-group>
+
+    </pip:object-groups>
+</pip:manifest>
