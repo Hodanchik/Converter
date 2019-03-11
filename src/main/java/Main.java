@@ -124,7 +124,7 @@ JSONObject jsonFile = new JSONObject();
     }
 
     // 5. Сохранить все файлы в какуюто директорию
-
+File file = mew File("string")
 
 
 
